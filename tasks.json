@@ -7,9 +7,9 @@
   },
   {
     "id": 2,
-    "tarea": "Regar las plantas",
-    "responsable": "Carlos",
-    "cumplida": true
+    "tarea": "planchar",
+    "responsable": "juan",
+    "cumplida": false
   },
   {
     "id": 3,
